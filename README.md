@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavindus0
 - 👀 I’m interested in AI/ML, Electronics and Mobile App Development
-- I Love Malayalam Movies 
+- 🎬 I Love Malayalam Movies 
 - 📫 Reach me via kavindusachinthe@outlook.com
 
 <!---
