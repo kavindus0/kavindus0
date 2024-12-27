@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Kavindu Sachinthe (@kavindus0)
 
 Just a movie lover from Sri Lanka with a passion for technology and creativity! 🎬
-
 ---
-
 ## 🌟 About Me
 
 - **Interests**:
