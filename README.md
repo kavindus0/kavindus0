@@ -2,7 +2,7 @@
 
 Just a movie lover from Sri Lanka with a passion for technology and creativity! 🎬
 ---
-## 🌟 About Me
+
 
 - **Interests**:
   - AI/ML 🤖
