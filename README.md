@@ -13,7 +13,7 @@ Just a movie lover from Sri Lanka with a passion for technology and creativity! 
 - **Education**: University of Kelaniya, Sri Lanka
 
 - **Contact**: 
-  - Email: [kavindusachinthe@outlook.com](mailto:kavindusachinthe@outlook.com)
+  - : [kavindusachinthe@outlook.com](mailto:kavindusachinthe@outlook.com)
   - [LinkedIn](https://www.linkedin.com/in/kavindus)
   - [VK](https://m.vk.com/kavindus/)
   - [Telegram](https://t.me/kavindus0)
