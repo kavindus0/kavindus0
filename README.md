@@ -7,5 +7,4 @@
   - [VK](https://m.vk.com/kavindus/)
   - [Telegram](https://t.me/kavindus0)
   - [ORCID](https://orcid.org/0009-0002-6813-3099)
-  - [Facebook](https://www.facebook.com/kavindus00)
 ---
