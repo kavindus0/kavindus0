@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%7C+AI+%7C+Electronics+%7C+Web+Dev;FastAPI+%7C+Next.js+%7C+Flutter+%7C+Firebase;Mohanlal+%7C+Fahadh+%7C+Suriya+cinema+fan;Always+learning+%E2%9C%8C%EF%B8%8F+Always+curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%7C+AI+%7C+Electronics+%7C+Web+Dev;FastAPI+%7C+Next.js+%7C+Flutter+%7C+Firebase;Mohanlal+%7C+Fahadh+%7C+Suriya+cinema+fan;Always+Sleeping+%E2%9C%8C%EF%B8%8F+Always+Doing+Nothing" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -68,68 +68,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Paddy Disease Classifier
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=brain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ResNet50](https://img.shields.io/badge/ResNet50-FF9500?style=flat-square&logo=tensorflow&logoColor=white)
-
-AI-powered rice disease detection system using FastAI and ResNet50 architecture for agricultural applications.
-
-**[🔗 View Project](#)** | **[📱 Live Demo](#)**
-
-</td>
-<td width="50%">
-
-### 🧾 Medusa 1.0
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![RBAC](https://img.shields.io/badge/RBAC-4285F4?style=flat-square&logo=security&logoColor=white)
-
-Comprehensive school management system with role-based access control and modern UI/UX design.
-
-**[🔗 View Project](#)** | **[📱 Live Demo](#)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔁 Auto Commit Bot
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00D4AA?style=flat-square&logo=robot&logoColor=white)
-
-Creative GitHub contribution bot that draws "HIRE ME" pattern in the contribution grid using automated commits.
-
-**[🔗 View Project](#)** | **[📱 Live Demo](#)**
-
-</td>
-<td width="50%">
-
-### 📚 Content CMS
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
-![CMS](https://img.shields.io/badge/CMS-6B73FF?style=flat-square&logo=contentful&logoColor=white)
-
-Semester-wise PDF content management system with cloud storage integration and user-friendly interface.
-
-**[🔗 View Project](#)** | **[📱 Live Demo](#)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🎬 Cinema That Codes My Soul
 
@@ -285,13 +223,10 @@ Semester-wise PDF content management system with cloud storage integration and u
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20cinema%20inspires%20great%20code&author=Kavindu%20Sachinthe" alt="Quote" />
 
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kavindus0)
-
 ---
 
-**Thanks for visiting! 😊**  
-*Crafted with ❤️ and lots of ☕*
+*Crafted with ❤️ and lots of ☕*<br>
+*(it's Just a Rs.10/= Plain Tea from UOK Gym Canteen)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 
