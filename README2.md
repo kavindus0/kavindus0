@@ -1,38 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kavindu%20Sachinthe&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20|%20AI%20Enthusiast%20|%20Cinema%20Lover&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kavindu%20Sachinthe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20|%20AI%20Enthusiast%20|%20Cinema%20Lover&descAlignY=51&descAlign=62"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hello%2C+I'm+Kavindu+Sachinthe;CS+Student+%7C+AI+%7C+Electronics+%7C+Web+Dev;FastAPI+%7C+Next.js+%7C+Flutter+%7C+Firebase;Mohanlal+%7C+Fahadh+%7C+Suriya+cinema+fan;Always+learning+✌️+Always+curious;🎥+Cinema+teaches+emotions;💻+Code+expresses+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%7C+AI+%7C+Electronics+%7C+Web+Dev;FastAPI+%7C+Next.js+%7C+Flutter+%7C+Firebase;Mohanlal+%7C+Fahadh+%7C+Suriya+cinema+fan;Always+learning+%E2%9C%8C%EF%B8%8F+Always+curious" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=kavindus&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/kavindus)
-[![GitHub followers](https://img.shields.io/github/followers/kavindus?label=Followers&style=for-the-badge&color=blue)](https://github.com/kavindus?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/kavindus?label=Stars&style=for-the-badge&color=yellow)](https://github.com/kavindus)
-[![Commits](https://badges.pufler.dev/commits/monthly/kavindus?style=for-the-badge&color=green)](https://github.com/kavindus)
+[![Profile Views](https://komarev.com/ghpvc/?username=kavindus0&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kavindus0)
+[![GitHub followers](https://img.shields.io/github/followers/kavindus0?label=Followers&style=social)](https://github.com/kavindus0?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/kavindus0?label=Stars&style=social)](https://github.com/kavindus0)
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## �*‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 **Computer Science Student** passionate about technology and innovation
 - 🤖 **AI/ML Enthusiast** working with FastAI, Scikit-learn, and EDA
 - 🌐 **Full-Stack Developer** building with Next.js, Firebase, and FastAPI
 - 📱 **Mobile Developer** creating apps with Flutter
 - 🎬 **Cinema Lover** - Movies inspire my code and creativity
-- � **El ectronics Hobbyist** - Logic circuits and IC projects
+- 🔌 **Electronics Hobbyist** - Logic circuits and IC projects
 - 🌱 Currently learning **Golang** and exploring new technologies
-- � Astk me about **AI, Web Development, Flutter, or Cinema**
+- 💬 Ask me about **AI, Web Development, Flutter, or Cinema**
 - ⚡ Fun fact: **Great cinema inspires great code**
 
 <br>
@@ -70,6 +65,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -131,6 +128,8 @@ Semester-wise PDF content management system with cloud storage integration and u
 </table>
 
 </div>
+
+---
 
 ## 🎬 Cinema That Codes My Soul
 
@@ -198,68 +197,68 @@ Semester-wise PDF content management system with cloud storage integration and u
   
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=kavindus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff"
+    srcset="https://github-readme-stats.vercel.app/api?username=kavindus0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kavindus&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e"
+    srcset="https://github-readme-stats.vercel.app/api?username=kavindus0&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindus0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=kavindus&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=kavindus0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=kavindus&theme=default&hide_border=true&background=ffffff&stroke=0366d6&ring=0366d6&fire=FF6B6B&currStreakLabel=0366d6"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=kavindus0&theme=default&hide_border=true&background=ffffff&stroke=0366d6&ring=0366d6&fire=FF6B6B&currStreakLabel=0366d6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindus0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </picture>
 
 ### 📊 Most Used Languages
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindus0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindus&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindus0&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindus0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </picture>
 
 ### 📈 Contribution Graph
 
 <picture>
   <source 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavindus&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavindus0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavindus&theme=github-compact&hide_border=true&bg_color=ffffff&color=0366d6&line=0366d6&point=FF6B6B"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavindus0&theme=github-compact&hide_border=true&bg_color=ffffff&color=0366d6&line=0366d6&point=FF6B6B"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindus&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindus0&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </picture>
 
 ### 🏆 GitHub Trophies
 
 <picture>
   <source 
-    srcset="https://github-profile-trophy.vercel.app/?username=kavindus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
+    srcset="https://github-profile-trophy.vercel.app/?username=kavindus0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=kavindus&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1"
+    srcset="https://github-profile-trophy.vercel.app/?username=kavindus0&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindus0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </picture>
 
 </div>
@@ -287,7 +286,7 @@ Semester-wise PDF content management system with cloud storage integration and u
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20cinema%20inspires%20great%20code&author=Kavindu%20Sachinthe" alt="Quote" />
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kavindus)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kavindus0)
 
 ---
 
