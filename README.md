@@ -70,9 +70,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=2&section=footer"/>
 </div>
-
+ <br>
 <details open>
-  <br>
   <summary>🌟 Mohanlal — <i>The Legend</i></summary>
   
   - 🕵️‍♂️ Drishyam (I & II) — <i>Flawless suspense</i>
@@ -80,7 +79,7 @@
   - 🔨 Spadikam — <i>Cult classic brilliance</i>
 </details>
 
-<details>
+<details open>
   <summary>🎭 Fahadh Faasil — <i>The Actor's Actor</i></summary>
   
   - 📷 Maheshinte Prathikaaram — <i>Revenge with grace</i>
@@ -88,7 +87,7 @@
   - 🏠 Kumbalangi Nights — <i>A dysfunctional masterpiece</i>
 </details>
 
-<details>
+<details open>
   <summary>🔥 Suriya — <i>Soul & Substance</i></summary>
   
   - ✈️ Soorarai Pottru — <i>Sky is never the limit</i>
