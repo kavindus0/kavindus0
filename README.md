@@ -72,6 +72,7 @@
 </div>
 
 <details open>
+  <br>
   <summary>🌟 Mohanlal — <i>The Legend</i></summary>
   
   - 🕵️‍♂️ Drishyam (I & II) — <i>Flawless suspense</i>
