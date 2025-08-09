@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
+  <defs>
+    <style>
+      .text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #666; }
+      .title { font-size: 18px; font-weight: bold; fill: #333; }
+    </style>
+  </defs>
+  
+  <rect width="480" height="120" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" rx="6"/>
+  
+  <text x="240" y="35" text-anchor="middle" class="title">GitHub Profile Metrics</text>
+  <text x="240" y="60" text-anchor="middle" class="text">Metrics will be automatically generated</text>
+  <text x="240" y="80" text-anchor="middle" class="text">by the GitHub Actions workflow</text>
+  <text x="240" y="100" text-anchor="middle" class="text">Please wait for the first run...</text>
+</svg>
