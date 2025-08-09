@@ -11,7 +11,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kavindus0&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kavindus0)
 [![GitHub followers](https://img.shields.io/github/followers/kavindus0?label=Followers&style=social)](https://github.com/kavindus0?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/kavindus0?label=Stars&style=social)](https://github.com/kavindus0)
-[![Visits](https://badges.pufler.dev/visits/kavindus0/kavindus0?color=00BFFF)](https://github.com/kavindus0)
 
 </div>
 
