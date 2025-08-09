@@ -105,8 +105,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:6A5ACD&height=2&section=footer"/>
 </div>
 
-## 📊 Analytics, Animations & Dynamic Widgets
-
 <div align="center">
 
 <!-- GitHub Stats -->
