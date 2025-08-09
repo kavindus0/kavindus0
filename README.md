@@ -71,12 +71,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=2&section=footer"/>
 </div>
 
-## 🎬 Cinema That Codes My Soul
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎥+Cinema+teaches+emotions.+Code+expresses+them." alt="Cinema Quote" />
-</div>
-
 <details open>
   <summary>🌟 Mohanlal — <i>The Legend</i></summary>
   
@@ -135,9 +129,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindus0&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </picture>
 
-<!-- Animated Metrics (requires workflow) -->
-<img src="./metrics.svg" alt="Metrics" />
-
 <!-- Contribution Snake (requires workflow) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
@@ -174,7 +165,6 @@
   
 ### 💭 Quote to Code By
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20cinema%20inspires%20great%20code&author=Kavindu%20Sachinthe" alt="Quote" />
-
 </div>
 
 <br/>
@@ -184,14 +174,4 @@
   <p><sub>Crafted with ❤️ and lots of ☕ (just a Rs.10/= plain tea from UOK Gym Canteen)</sub></p>
 </div>
 
-<!--
-Setup notes (optional, for animations):
-1) Contribution Snake:
-   - This README expects ./assets/github-snake.svg and ./assets/github-snake-dark.svg to exist.
-   - Add the provided GitHub Action: .github/workflows/snake.yml
 
-2) Metrics:
-   - This README expects ./metrics.svg to exist.
-   - Add the provided GitHub Action: .github/workflows/metrics.yml
-   - Create a classic PAT with scopes: public_repo, read:user, read:org and save as repo secret METRICS_TOKEN.
--->
