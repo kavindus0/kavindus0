@@ -24,19 +24,18 @@
 </div>
 
 <br/>
+<br/>
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-## 👨‍💻 About Me
 
-- 🎓 Computer Science Student passionate about building useful things
-- 🤖 AI/ML: FastAI, Scikit‑learn, TensorFlow, EDA
-- 🌐 Full‑Stack: Next.js, FastAPI, Firebase, Supabase
-- 📱 Flutter for mobile apps
-- 🔌 Electronics: Logic circuits and IC projects
-- 🌱 Currently learning Golang
-- 💬 Ask me about AI, Web Dev, Flutter, or Cinema
-- ⚡ Fun fact: Great cinema inspires great code
+## 🗂️ What You'll Find Here
+- AI/ML experiments and learning repos
+- Web/mobile prototypes and side projects
+- Electronics and logic circuit doodles
+- Documentation of my growth as a developer (2023–2025)
+
+For the latest, find me at [kavix](https://github.com/kavix).
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:6A5ACD&height=2&section=footer"/>
@@ -180,7 +179,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-  <p><sub>Crafted with ❤️ and lots of ☕ (just a Rs.10/= plain tea from UOK Gym Canteen)</sub></p>
+  <p><sub>Crafted with ❤️ and lots of ☕ (just a Rs.10/= plain tea from UOK Gym Canteen) — 2023 to 2025</sub></p>
 </div>
 
 
