@@ -1,14 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Kavindu%20Sachinthe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20|%20AI%20Enthusiast%20|%20Cinema%20Lover&descAlignY=51&descAlign=62"/>
 </div>
----
 
+---
 > ⚠️ **Archived Notice:**  
 > As of 2025-08-19, this profile (`kavindus0`) is archived and no longer maintained.  
 > All future work, projects, and collaborations will happen under my original account: [kavix](https://github.com/kavix).  
 >  
 > This account remains as a reference portfolio of my early journey.
-
 ---
 
 
