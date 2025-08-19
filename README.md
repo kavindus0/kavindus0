@@ -1,15 +1,16 @@
-> ⚠️ **Archived Notice:**  
-> As of 2025-08-19, I have stopped all new work on this account (`kavindus0`).  
-> All future projects, updates, and contributions will be made under my original account: [kavix](https://github.com/kavix) (created 2012).  
->  
-> This account and its repositories will remain archived/read-only as a portfolio snapshot.  
->  
-> 👉 **Follow me at [kavix](https://github.com/kavix) for everything new!**
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Kavindu%20Sachinthe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20|%20AI%20Enthusiast%20|%20Cinema%20Lover&descAlignY=51&descAlign=62"/>
 </div>
+---
+
+> ⚠️ **Archived Notice:**  
+> As of 2025-08-19, this profile (`kavindus0`) is archived and no longer maintained.  
+> All future work, projects, and collaborations will happen under my original account: [kavix](https://github.com/kavix).  
+>  
+> This account remains as a reference portfolio of my early journey.
+
+---
+
 
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Mohanlal+%7C+Fahadh+%7C+Suriya+cinema+fan" alt="Typing SVG" />
